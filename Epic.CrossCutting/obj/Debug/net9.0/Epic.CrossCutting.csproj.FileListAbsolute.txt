@@ -1,0 +1,11 @@
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.deps.json
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.dll
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.pdb
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfoInputs.cache
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfo.cs
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.csproj.CoreCompileInputs.cache
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.dll
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/refint/Epic.CrossCutting.dll
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.pdb
+/Users/alexandertorres/Documents/DOE-Interview/Code/EPIC/Epic.CrossCutting/obj/Debug/net9.0/ref/Epic.CrossCutting.dll
