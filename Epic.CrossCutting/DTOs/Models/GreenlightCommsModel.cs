@@ -5,6 +5,7 @@ namespace Epic.CrossCutting.DTOs.Models;
 public class GreenlightCommsModel
 {
     // Current action being performed
+    // Enum
     public GreenLightAction CurrentGreenLightAction { get; set; }
 
     // Congressional Notification properties

@@ -3,6 +3,12 @@ using Epic.CrossCutting.DTOs.Models;
 
 namespace Epic.Business.Rules.Announcement.AnnouncementDevelopment;
 
+//Summary
+// The class below inherits from the IGreenlightCommissionsRuleService interface contract and implements
+// an method called Execute that returns an object of type IRuleServiceOutput<GreenlightCommsModel>.
+
+// The method Execute method accepts an input of type GreenlightCommsModel using variable model.
+
 public class GreenlightCommissionsRuleService : IGreenlightCommissionsRuleService
     {
        
