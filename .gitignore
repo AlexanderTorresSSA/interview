@@ -60,3 +60,5 @@ app.publish/
 Epic.CrossCutting/obj/
 Epic.Console/obj/
 Epic.CrossCutting/bin/
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfo.cs
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
