@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic.CrossCutting", "Epic.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic.Console", "Epic.Console\Epic.Console.csproj", "{4ED3FD4F-E19C-463E-BA8F-BD678FF03B25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic.Business", "Epic.Business\Epic.Business.csproj", "{8D9658EE-5122-4A18-82A8-9AFD59230DC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4ED3FD4F-E19C-463E-BA8F-BD678FF03B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED3FD4F-E19C-463E-BA8F-BD678FF03B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED3FD4F-E19C-463E-BA8F-BD678FF03B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9658EE-5122-4A18-82A8-9AFD59230DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9658EE-5122-4A18-82A8-9AFD59230DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9658EE-5122-4A18-82A8-9AFD59230DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9658EE-5122-4A18-82A8-9AFD59230DC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

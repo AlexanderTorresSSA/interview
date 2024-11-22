@@ -1,0 +1,124 @@
+# Build artifacts
+bin/
+Epic.CrossCutting/obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# IIS Express
+/.vs/
+*.vspscc
+
+# Rider and IntelliJ IDEA
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Packages directory (NuGet, by default)
+/packages/
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+*.tlog
+
+# Temporary files
+*.temp
+*.tmp
+*.cache
+*.backup
+*.bak
+
+# Database files
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+app.publish/
+
+# Runtime-generated files
+*.pidb
+*.
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+Epic.Console/obj/project.assets.json
+Epic.Console/obj/project.nuget.cache
+Epic.Console/obj/project.packagespec.json
+Epic.Console/obj/rider.project.model.nuget.info
+Epic.Console/obj/rider.project.restore.info
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfo.cs
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfoInputs.cache
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+Epic.Console/obj/project.assets.json
+Epic.Console/obj/project.nuget.cache
+Epic.Console/obj/project.packagespec.json
+Epic.Console/obj/rider.project.model.nuget.info
+Epic.Console/obj/rider.project.restore.info
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfo.cs
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfoInputs.cache
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfo.cs
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfoInputs.cache
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+Epic.Console/obj/project.assets.json
+Epic.Console/obj/project.nuget.cache
+Epic.Console/obj/project.packagespec.json
+Epic.Console/obj/rider.project.model.nuget.info
+Epic.Console/obj/rider.project.restore.info
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfo.cs
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfoInputs.cache
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfo.cs
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfoInputs.cache
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.csproj.CoreCompileInputs.cache
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfo.cs
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfoInputs.cache
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.csproj.CoreCompileInputs.cache
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.CrossCutting/obj/Debug/net9.0/ref/Epic.CrossCutting.dll
+Epic.CrossCutting/obj/Debug/net9.0/refint/Epic.CrossCutting.dll
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+.gitignore
+Epic.Console/obj/Epic.Console.csproj.nuget.dgspec.json
+Epic.Console/obj/project.assets.json
+Epic.Console/obj/project.nuget.cache
+Epic.Console/obj/project.packagespec.json
+Epic.Console/obj/rider.project.model.nuget.info
+Epic.Console/obj/rider.project.restore.info
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfo.cs
+Epic.Console/obj/Debug/net9.0/Epic.Console.AssemblyInfoInputs.cache
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/bin/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfo.cs
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.AssemblyInfoInputs.cache
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.csproj.CoreCompileInputs.cache
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.dll
+Epic.CrossCutting/obj/Debug/net9.0/Epic.CrossCutting.pdb
+Epic.CrossCutting/obj/Debug/net9.0/ref/Epic.CrossCutting.dll
+Epic.CrossCutting/obj/Debug/net9.0/refint/Epic.CrossCutting.dll
